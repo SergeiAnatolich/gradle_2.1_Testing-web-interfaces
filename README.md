@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/14fci0syj4sqfsmn?svg=true)](https://ci.appveyor.com/project/SergeiAnatolich/gradle-2-1-testing-web-interfaces)
